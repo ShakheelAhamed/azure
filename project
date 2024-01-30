@@ -1,1 +1,26 @@
-Hosting a website on wnidows virtusl machine
+Hosting a website on wnidows virtusl machine:
+
+Internet Information Services (IIS) is a web server 
+software package created by Microsoft for use with 
+Windows Server operating systems. It's a powerful and 
+flexible platform for hosting websites, web applications, 
+and services. IIS primarily functions as a web server, 
+capable of serving static and dynamic content to clients 
+over the HTTP and HTTPS protocols. IIS includes robust 
+security features such as request filtering, SSL/TLS 
+support, and integration with Windows authentication 
+mechanisms. t supports hosting various types of web 
+applications, including ASP.NET, PHP, and Node.js 
+applications, among others. IIS provides a user-friendly 
+management interface, including the IIS Manager and 
+PowerShell cmdlets, for configuring and managing web 
+server settings. IIS includes performance monitoring 
+tools that allow administrators to monitor server 
+performance, diagnose issues, and optimize server 
+resources.
+
+follow these steps to Hosting a website on wnidows virtusl machine:
+  step 1:creating the virtual machine
+  step 2:connect the vm
+  step 3:install internet information service(IIS)
+  step 4:creating and hosting a webpage
